@@ -1,0 +1,1083 @@
+{
+  "generated_at": "2026-06-05 20:21:18",
+  "source_url": "https://www.yuque.com/schoolpal-wiki/manual",
+  "bundle_dir": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册",
+  "total": 134,
+  "saved": 134,
+  "failed": 0,
+  "documents": [
+    {
+      "order": 1,
+      "title": "招生宝",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/xklenfprhbfvd7t1",
+      "doc_id": "xklenfprhbfvd7t1",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\001_xklenfprhbfvd7t1.md"
+    },
+    {
+      "order": 2,
+      "title": "美团直连",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/meituan",
+      "doc_id": "meituan",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\002_meituan.md"
+    },
+    {
+      "order": 3,
+      "title": "抖音直连 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/douyin",
+      "doc_id": "douyin",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\003_douyin.md"
+    },
+    {
+      "order": 4,
+      "title": "小红书直连 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/rihbw24cr332z24w",
+      "doc_id": "rihbw24cr332z24w",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\004_rihbw24cr332z24w.md"
+    },
+    {
+      "order": 5,
+      "title": "超级裂变",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/superfission",
+      "doc_id": "superfission",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\005_superfission.md"
+    },
+    {
+      "order": 6,
+      "title": "招生表单",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/kbm9gg",
+      "doc_id": "kbm9gg",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\006_kbm9gg.md"
+    },
+    {
+      "order": 7,
+      "title": "入学测评 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/oringpix5ww8k40s",
+      "doc_id": "oringpix5ww8k40s",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\007_oringpix5ww8k40s.md"
+    },
+    {
+      "order": 8,
+      "title": "意向学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/nd9aib",
+      "doc_id": "nd9aib",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\008_nd9aib.md"
+    },
+    {
+      "order": 9,
+      "title": "渠道及公有池管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ii8hh1093b0qm9t1",
+      "doc_id": "ii8hh1093b0qm9t1",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\009_ii8hh1093b0qm9t1.md"
+    },
+    {
+      "order": 10,
+      "title": "智能外呼",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/oiltztsclthrykpk",
+      "doc_id": "oiltztsclthrykpk",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\010_oiltztsclthrykpk.md"
+    },
+    {
+      "order": 11,
+      "title": "外呼通对接 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ueyqy1e2mz15h0ng",
+      "doc_id": "ueyqy1e2mz15h0ng",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\011_ueyqy1e2mz15h0ng.md"
+    },
+    {
+      "order": 12,
+      "title": "TQ 企友对接",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ai",
+      "doc_id": "ai",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\012_ai.md"
+    },
+    {
+      "order": 13,
+      "title": "EC 系统对接 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ec",
+      "doc_id": "ec",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\013_ec.md"
+    },
+    {
+      "order": 14,
+      "title": "跟进记录",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/oc26b6gnpv2gop1b",
+      "doc_id": "oc26b6gnpv2gop1b",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\014_oc26b6gnpv2gop1b.md"
+    },
+    {
+      "order": 15,
+      "title": "试听管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/audition",
+      "doc_id": "audition",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\015_audition.md"
+    },
+    {
+      "order": 16,
+      "title": "转介绍",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ar75gmd60eo1dacr",
+      "doc_id": "ar75gmd60eo1dacr",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\016_ar75gmd60eo1dacr.md"
+    },
+    {
+      "order": 17,
+      "title": "优惠券",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/mgmoapv7ymfkew0b",
+      "doc_id": "mgmoapv7ymfkew0b",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\017_mgmoapv7ymfkew0b.md"
+    },
+    {
+      "order": 18,
+      "title": "报名续费",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/2024.7.18",
+      "doc_id": "2024-7-18",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\018_2024-7-18.md"
+    },
+    {
+      "order": 19,
+      "title": "学员管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/students",
+      "doc_id": "students",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\019_students.md"
+    },
+    {
+      "order": 20,
+      "title": "待分班学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/unclassified",
+      "doc_id": "unclassified",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\020_unclassified.md"
+    },
+    {
+      "order": 21,
+      "title": "待续费学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/lcka8w",
+      "doc_id": "lcka8w",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\021_lcka8w.md"
+    },
+    {
+      "order": 22,
+      "title": "待关注学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/bld29l",
+      "doc_id": "bld29l",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\022_bld29l.md"
+    },
+    {
+      "order": 23,
+      "title": "生日学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/birthday",
+      "doc_id": "birthday",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\023_birthday.md"
+    },
+    {
+      "order": 24,
+      "title": "欠费学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/nulmgu",
+      "doc_id": "nulmgu",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\024_nulmgu.md"
+    },
+    {
+      "order": 25,
+      "title": "缺课学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/wt2tnfnqpn9t7omx",
+      "doc_id": "wt2tnfnqpn9t7omx",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\025_wt2tnfnqpn9t7omx.md"
+    },
+    {
+      "order": 26,
+      "title": "AI 学员运营 🔥",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/zds9pnm4c170agtw",
+      "doc_id": "zds9pnm4c170agtw",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\026_zds9pnm4c170agtw.md"
+    },
+    {
+      "order": 27,
+      "title": "学员教材学杂费管理 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ppgff0zwgpc7ik84",
+      "doc_id": "ppgff0zwgpc7ik84",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\027_ppgff0zwgpc7ik84.md"
+    },
+    {
+      "order": 28,
+      "title": "报读列表",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/xuqdxa",
+      "doc_id": "xuqdxa",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\028_xuqdxa.md"
+    },
+    {
+      "order": 29,
+      "title": "班级",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/classes",
+      "doc_id": "classes",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\029_classes.md"
+    },
+    {
+      "order": 30,
+      "title": "班级属性设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/attributes",
+      "doc_id": "attributes",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\030_attributes.md"
+    },
+    {
+      "order": 31,
+      "title": "一班多课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/composelesson",
+      "doc_id": "composelesson",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\031_composelesson.md"
+    },
+    {
+      "order": 32,
+      "title": "1 对 1",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/qspb66",
+      "doc_id": "qspb66",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\032_qspb66.md"
+    },
+    {
+      "order": 33,
+      "title": "课表",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/curriculum",
+      "doc_id": "curriculum",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\033_curriculum.md"
+    },
+    {
+      "order": 34,
+      "title": "日程列表（PC 端）",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/schedule",
+      "doc_id": "schedule",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\034_schedule.md"
+    },
+    {
+      "order": 35,
+      "title": "冲突日程（PC 端）",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/conflict",
+      "doc_id": "conflict",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\035_conflict.md"
+    },
+    {
+      "order": 36,
+      "title": "上课点名",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/teachinglog",
+      "doc_id": "teachinglog",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\036_teachinglog.md"
+    },
+    {
+      "order": 37,
+      "title": "人脸考勤",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/faceindex",
+      "doc_id": "faceindex",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\037_faceindex.md"
+    },
+    {
+      "order": 38,
+      "title": "人脸考勤机 🔥",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/sypqippyhxsxq4b0",
+      "doc_id": "sypqippyhxsxq4b0",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\038_sypqippyhxsxq4b0.md"
+    },
+    {
+      "order": 39,
+      "title": "上课记录",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/attendance",
+      "doc_id": "attendance",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\039_attendance.md"
+    },
+    {
+      "order": 40,
+      "title": "补课管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/makeuplesson",
+      "doc_id": "makeuplesson",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\040_makeuplesson.md"
+    },
+    {
+      "order": 41,
+      "title": "约课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/qkt56b",
+      "doc_id": "qkt56b",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\041_qkt56b.md"
+    },
+    {
+      "order": 42,
+      "title": "场地预约付费",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/changdiyuyue",
+      "doc_id": "changdiyuyue",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\042_changdiyuyue.md"
+    },
+    {
+      "order": 43,
+      "title": "课程商品",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/lessons",
+      "doc_id": "lessons",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\043_lessons.md"
+    },
+    {
+      "order": 44,
+      "title": "场地预约",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/venuebooking",
+      "doc_id": "venuebooking",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\044_venuebooking.md"
+    },
+    {
+      "order": 45,
+      "title": "升班升期",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/rst1f1yyg6nm1sgv",
+      "doc_id": "rst1f1yyg6nm1sgv",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\045_rst1f1yyg6nm1sgv.md"
+    },
+    {
+      "order": 46,
+      "title": "学员成绩",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/score",
+      "doc_id": "score",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\046_score.md"
+    },
+    {
+      "order": 47,
+      "title": "AI 题库组卷",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/tp9t90el4gb71b6h",
+      "doc_id": "tp9t90el4gb71b6h",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\047_tp9t90el4gb71b6h.md"
+    },
+    {
+      "order": 48,
+      "title": "教学云盘",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/nafy610d2t7t7an9",
+      "doc_id": "nafy610d2t7t7an9",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\048_nafy610d2t7t7an9.md"
+    },
+    {
+      "order": 49,
+      "title": "AI 辅助批改 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/klc9z88fz7ruwng1",
+      "doc_id": "klc9z88fz7ruwng1",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\049_klc9z88fz7ruwng1.md"
+    },
+    {
+      "order": 50,
+      "title": "圈画批改",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/xe17piy068ke8bf3",
+      "doc_id": "xe17piy068ke8bf3",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\050_xe17piy068ke8bf3.md"
+    },
+    {
+      "order": 51,
+      "title": "AI 错题本",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/bh9iwg26vr09x6i6",
+      "doc_id": "bh9iwg26vr09x6i6",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\051_bh9iwg26vr09x6i6.md"
+    },
+    {
+      "order": 52,
+      "title": "学员错题本 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/fzygmoy9ofi9b14p",
+      "doc_id": "fzygmoy9ofi9b14p",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\052_fzygmoy9ofi9b14p.md"
+    },
+    {
+      "order": 53,
+      "title": "班级错题本 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/aco3kiimhobrf51o",
+      "doc_id": "aco3kiimhobrf51o",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\053_aco3kiimhobrf51o.md"
+    },
+    {
+      "order": 54,
+      "title": "直播课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/classin",
+      "doc_id": "classin",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\054_classin.md"
+    },
+    {
+      "order": 55,
+      "title": "录播课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/hwwbisspiz6w23sq",
+      "doc_id": "hwwbisspiz6w23sq",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\055_hwwbisspiz6w23sq.md"
+    },
+    {
+      "order": 56,
+      "title": "短信上课提醒",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/fqiikc0q7se29gyv",
+      "doc_id": "fqiikc0q7se29gyv",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\056_fqiikc0q7se29gyv.md"
+    },
+    {
+      "order": 57,
+      "title": "课堂点评",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/snk7l0",
+      "doc_id": "snk7l0",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\057_snk7l0.md"
+    },
+    {
+      "order": 58,
+      "title": "课后任务",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/oqikf0",
+      "doc_id": "oqikf0",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\058_oqikf0.md"
+    },
+    {
+      "order": 59,
+      "title": "通知公告",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/dosuv7",
+      "doc_id": "dosuv7",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\059_dosuv7.md"
+    },
+    {
+      "order": 60,
+      "title": "成长档案",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/sx277cx1a8sv2mcg",
+      "doc_id": "sx277cx1a8sv2mcg",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\060_sx277cx1a8sv2mcg.md"
+    },
+    {
+      "order": 61,
+      "title": "电子相册",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/vsko06",
+      "doc_id": "vsko06",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\061_vsko06.md"
+    },
+    {
+      "order": 62,
+      "title": "积分管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/io3k1g",
+      "doc_id": "io3k1g",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\062_io3k1g.md"
+    },
+    {
+      "order": 63,
+      "title": "打卡任务",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/itqyll",
+      "doc_id": "itqyll",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\063_itqyll.md"
+    },
+    {
+      "order": 64,
+      "title": "请假管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ft9d5r",
+      "doc_id": "ft9d5r",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\064_ft9d5r.md"
+    },
+    {
+      "order": 65,
+      "title": "学员测评",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/evaluation",
+      "doc_id": "evaluation",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\065_evaluation.md"
+    },
+    {
+      "order": 66,
+      "title": "学员风采展示",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/studentstyle",
+      "doc_id": "studentstyle",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\066_studentstyle.md"
+    },
+    {
+      "order": 67,
+      "title": "学员风采展示示例",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/oszm0fe9wbzcrb0b",
+      "doc_id": "oszm0fe9wbzcrb0b",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\067_oszm0fe9wbzcrb0b.md"
+    },
+    {
+      "order": 68,
+      "title": "意见反馈",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/feedback",
+      "doc_id": "feedback",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\068_feedback.md"
+    },
+    {
+      "order": 69,
+      "title": "收银宝开通",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/odxfrv",
+      "doc_id": "odxfrv",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\069_odxfrv.md"
+    },
+    {
+      "order": 70,
+      "title": "订单管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/orders",
+      "doc_id": "orders",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\070_orders.md"
+    },
+    {
+      "order": 71,
+      "title": "交接单",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/fkc4we7zmtadyyyr",
+      "doc_id": "fkc4we7zmtadyyyr",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\071_fkc4we7zmtadyyyr.md"
+    },
+    {
+      "order": 72,
+      "title": "审批管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/approve",
+      "doc_id": "approve",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\072_approve.md"
+    },
+    {
+      "order": 73,
+      "title": "报名优惠 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/yl9pbkoqu4mg8d5o",
+      "doc_id": "yl9pbkoqu4mg8d5o",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\073_yl9pbkoqu4mg8d5o.md"
+    },
+    {
+      "order": 74,
+      "title": "电子合同",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ggkqo895g5t9lgzs",
+      "doc_id": "ggkqo895g5t9lgzs",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\074_ggkqo895g5t9lgzs.md"
+    },
+    {
+      "order": 75,
+      "title": "业绩管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/rggozo",
+      "doc_id": "rggozo",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\075_rggozo.md"
+    },
+    {
+      "order": 76,
+      "title": "账单管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/tallybook",
+      "doc_id": "tallybook",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\076_tallybook.md"
+    },
+    {
+      "order": 77,
+      "title": "工资管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/mwiexk",
+      "doc_id": "mwiexk",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\077_mwiexk.md"
+    },
+    {
+      "order": 78,
+      "title": "确认收入明细",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/wqsxl7",
+      "doc_id": "wqsxl7",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\078_wqsxl7.md"
+    },
+    {
+      "order": 79,
+      "title": "学费变动记录",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/kdcou2s0g930r35b",
+      "doc_id": "kdcou2s0g930r35b",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\079_kdcou2s0g930r35b.md"
+    },
+    {
+      "order": 80,
+      "title": "储值账户",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/recharge",
+      "doc_id": "recharge",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\080_recharge.md"
+    },
+    {
+      "order": 81,
+      "title": "AI 风险预警（校长必看） 🔥",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/gp8fm2pub4zw6duk",
+      "doc_id": "gp8fm2pub4zw6duk",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\081_gp8fm2pub4zw6duk.md"
+    },
+    {
+      "order": 82,
+      "title": "员工管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/afgvurok2o96542m",
+      "doc_id": "afgvurok2o96542m",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\082_afgvurok2o96542m.md"
+    },
+    {
+      "order": 83,
+      "title": "角色管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/vqiw4f69qbhnk15h",
+      "doc_id": "vqiw4f69qbhnk15h",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\083_vqiw4f69qbhnk15h.md"
+    },
+    {
+      "order": 84,
+      "title": "出入库管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/inventory",
+      "doc_id": "inventory",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\084_inventory.md"
+    },
+    {
+      "order": 85,
+      "title": "校宝云打印",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/dnr8mr",
+      "doc_id": "dnr8mr",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\085_dnr8mr.md"
+    },
+    {
+      "order": 86,
+      "title": "PC 端打印设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/print",
+      "doc_id": "print",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\086_print.md"
+    },
+    {
+      "order": 87,
+      "title": "目标管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/kw2gquko79tgtngz",
+      "doc_id": "kw2gquko79tgtngz",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\087_kw2gquko79tgtngz.md"
+    },
+    {
+      "order": 88,
+      "title": "个人数据中心 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ta6wpmieldkdzkb5",
+      "doc_id": "ta6wpmieldkdzkb5",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\088_ta6wpmieldkdzkb5.md"
+    },
+    {
+      "order": 89,
+      "title": "单校数据大屏",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/zux0wf0m5e7bn28v",
+      "doc_id": "zux0wf0m5e7bn28v",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\089_zux0wf0m5e7bn28v.md"
+    },
+    {
+      "order": 90,
+      "title": "招生数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/uwnxb3gks6r3z8va",
+      "doc_id": "uwnxb3gks6r3z8va",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\090_uwnxb3gks6r3z8va.md"
+    },
+    {
+      "order": 91,
+      "title": "教务数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/eulozmdtg0k51ccz",
+      "doc_id": "eulozmdtg0k51ccz",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\091_eulozmdtg0k51ccz.md"
+    },
+    {
+      "order": 92,
+      "title": "续班率",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/renewalrate",
+      "doc_id": "renewalrate",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\092_renewalrate.md"
+    },
+    {
+      "order": 93,
+      "title": "家校数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/amhq29dp27g7nz3z",
+      "doc_id": "amhq29dp27g7nz3z",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\093_amhq29dp27g7nz3z.md"
+    },
+    {
+      "order": 94,
+      "title": "财务数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/yo8x9pcgetk9ue84",
+      "doc_id": "yo8x9pcgetk9ue84",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\094_yo8x9pcgetk9ue84.md"
+    },
+    {
+      "order": 95,
+      "title": "报表管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/data",
+      "doc_id": "data",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\095_data.md"
+    },
+    {
+      "order": 96,
+      "title": "报表管理_汇总表",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/cr3m2fhgxp070o5d",
+      "doc_id": "cr3m2fhgxp070o5d",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\096_cr3m2fhgxp070o5d.md"
+    },
+    {
+      "order": 97,
+      "title": "配置报表",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/yu2xg9vegkxle7sn",
+      "doc_id": "yu2xg9vegkxle7sn",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\097_yu2xg9vegkxle7sn.md"
+    },
+    {
+      "order": 98,
+      "title": "🆕 AI 数据分析助理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ipcxgt7r64paekkt",
+      "doc_id": "ipcxgt7r64paekkt",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\098_ipcxgt7r64paekkt.md"
+    },
+    {
+      "order": 99,
+      "title": "机构管理（员工、校区）",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/qlg6fk81xfod0ete",
+      "doc_id": "qlg6fk81xfod0ete",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\099_qlg6fk81xfod0ete.md"
+    },
+    {
+      "order": 100,
+      "title": "角色管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/nfdp69sny92fppbp",
+      "doc_id": "nfdp69sny92fppbp",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\100_nfdp69sny92fppbp.md"
+    },
+    {
+      "order": 101,
+      "title": "教学云盘",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/wkl1zx9rsamf1pm7",
+      "doc_id": "wkl1zx9rsamf1pm7",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\101_wkl1zx9rsamf1pm7.md"
+    },
+    {
+      "order": 102,
+      "title": "题库组卷",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/vmnucowxtsgnhx4w",
+      "doc_id": "vmnucowxtsgnhx4w",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\102_vmnucowxtsgnhx4w.md"
+    },
+    {
+      "order": 103,
+      "title": "总部目标管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/bekq9tc7ottckxz6",
+      "doc_id": "bekq9tc7ottckxz6",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\103_bekq9tc7ottckxz6.md"
+    },
+    {
+      "order": 104,
+      "title": "总部学员",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/izofhde72wpbibln",
+      "doc_id": "izofhde72wpbibln",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\104_izofhde72wpbibln.md"
+    },
+    {
+      "order": 105,
+      "title": "教师课表",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/fzo51znbvh3kn1sb",
+      "doc_id": "fzo51znbvh3kn1sb",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\105_fzo51znbvh3kn1sb.md"
+    },
+    {
+      "order": 106,
+      "title": "课程管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ouv748pn8fmvrw0e",
+      "doc_id": "ouv748pn8fmvrw0e",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\106_ouv748pn8fmvrw0e.md"
+    },
+    {
+      "order": 107,
+      "title": "总部出入库管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/krirnhenrm296877",
+      "doc_id": "krirnhenrm296877",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\107_krirnhenrm296877.md"
+    },
+    {
+      "order": 108,
+      "title": "录播课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/eftlt93vcp4t8hel",
+      "doc_id": "eftlt93vcp4t8hel",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\108_eftlt93vcp4t8hel.md"
+    },
+    {
+      "order": 109,
+      "title": "招生设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/setting",
+      "doc_id": "setting",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\109_setting.md"
+    },
+    {
+      "order": 110,
+      "title": "家校设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ovn9ba18gc6m0vcb",
+      "doc_id": "ovn9ba18gc6m0vcb",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\110_ovn9ba18gc6m0vcb.md"
+    },
+    {
+      "order": 111,
+      "title": "教务设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/anxs53es9wm4qy6b",
+      "doc_id": "anxs53es9wm4qy6b",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\111_anxs53es9wm4qy6b.md"
+    },
+    {
+      "order": 112,
+      "title": "教学设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/aoghd1zpadsiq7gu",
+      "doc_id": "aoghd1zpadsiq7gu",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\112_aoghd1zpadsiq7gu.md"
+    },
+    {
+      "order": 113,
+      "title": "财务设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/vgl96l37bob59pth",
+      "doc_id": "vgl96l37bob59pth",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\113_vgl96l37bob59pth.md"
+    },
+    {
+      "order": 114,
+      "title": "授权对接设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/qlzcv0oox626ebfi",
+      "doc_id": "qlzcv0oox626ebfi",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\114_qlzcv0oox626ebfi.md"
+    },
+    {
+      "order": 115,
+      "title": "内部设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/alqvedmt2qwqamd0",
+      "doc_id": "alqvedmt2qwqamd0",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\115_alqvedmt2qwqamd0.md"
+    },
+    {
+      "order": 116,
+      "title": "更多设置",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/xkofel5kmfr0wy0i",
+      "doc_id": "xkofel5kmfr0wy0i",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\116_xkofel5kmfr0wy0i.md"
+    },
+    {
+      "order": 117,
+      "title": "数据大屏",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/qovriovsncfcnseo",
+      "doc_id": "qovriovsncfcnseo",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\117_qovriovsncfcnseo.md"
+    },
+    {
+      "order": 118,
+      "title": "招生数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/rgg7ll2glvm0yc84",
+      "doc_id": "rgg7ll2glvm0yc84",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\118_rgg7ll2glvm0yc84.md"
+    },
+    {
+      "order": 119,
+      "title": "教务数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ph4q92gs1pu9f9wg",
+      "doc_id": "ph4q92gs1pu9f9wg",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\119_ph4q92gs1pu9f9wg.md"
+    },
+    {
+      "order": 120,
+      "title": "家校数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/rlpp4pvagv8ipukb",
+      "doc_id": "rlpp4pvagv8ipukb",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\120_rlpp4pvagv8ipukb.md"
+    },
+    {
+      "order": 121,
+      "title": "财务数据",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/om1lt90wnre1i5if",
+      "doc_id": "om1lt90wnre1i5if",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\121_om1lt90wnre1i5if.md"
+    },
+    {
+      "order": 122,
+      "title": "报表管理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/hzea6ma0nnllrg4o",
+      "doc_id": "hzea6ma0nnllrg4o",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\122_hzea6ma0nnllrg4o.md"
+    },
+    {
+      "order": 123,
+      "title": "十二、消息中心",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/pp2nm6rogv0d6ogz",
+      "doc_id": "pp2nm6rogv0d6ogz",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\123_pp2nm6rogv0d6ogz.md"
+    },
+    {
+      "order": 124,
+      "title": "十三、校宝 AI 助理",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/fvge8afgomb92kms",
+      "doc_id": "fvge8afgomb92kms",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\124_fvge8afgomb92kms.md"
+    },
+    {
+      "order": 125,
+      "title": "十四、开放平台",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/ha4ggy75hdvgq375",
+      "doc_id": "ha4ggy75hdvgq375",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\125_ha4ggy75hdvgq375.md"
+    },
+    {
+      "order": 126,
+      "title": "十五、校宝认证",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/rpbnew2yphx8pwze",
+      "doc_id": "rpbnew2yphx8pwze",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\126_rpbnew2yphx8pwze.md"
+    },
+    {
+      "order": 127,
+      "title": "10 升 11 操作手册",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/wavp7mw5d2a2yu0l",
+      "doc_id": "wavp7mw5d2a2yu0l",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\127_wavp7mw5d2a2yu0l.md"
+    },
+    {
+      "order": 128,
+      "title": "新老系统学员 & 学费数据说明",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/kik6kqvhbp0ks07n",
+      "doc_id": "kik6kqvhbp0ks07n",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\128_kik6kqvhbp0ks07n.md"
+    },
+    {
+      "order": 129,
+      "title": "10 升 11 家长关注流程 🆕",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/sp7hfmfnw05scn0h",
+      "doc_id": "sp7hfmfnw05scn0h",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\129_sp7hfmfnw05scn0h.md"
+    },
+    {
+      "order": 130,
+      "title": "跨校上课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/bl8fcafrd65thaor",
+      "doc_id": "bl8fcafrd65thaor",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\130_bl8fcafrd65thaor.md"
+    },
+    {
+      "order": 131,
+      "title": "跨校转课",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/xa2i5ixbbnhlx48f",
+      "doc_id": "xa2i5ixbbnhlx48f",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\131_xa2i5ixbbnhlx48f.md"
+    },
+    {
+      "order": 132,
+      "title": "专属公众号（总部）",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/me5mzclrxg1x8m6k",
+      "doc_id": "me5mzclrxg1x8m6k",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\132_me5mzclrxg1x8m6k.md"
+    },
+    {
+      "order": 133,
+      "title": "专属小程序（总部）",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/fttnnwld69grr87s",
+      "doc_id": "fttnnwld69grr87s",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\133_fttnnwld69grr87s.md"
+    },
+    {
+      "order": 134,
+      "title": "收银宝（总部）",
+      "url": "https://www.yuque.com/schoolpal-wiki/manual/chi3yn9gkhbh6a1z",
+      "doc_id": "chi3yn9gkhbh6a1z",
+      "indent": 0,
+      "markdown_path": "C:\\Users\\嘟嘟\\.workbuddy\\skills\\yuque\\data\\documents\\20260605_校宝App操作手册\\134_chi3yn9gkhbh6a1z.md"
+    }
+  ],
+  "failed_documents": []
+}
